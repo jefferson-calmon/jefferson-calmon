@@ -28,7 +28,7 @@ Apaixonado por programação e tecnologias, eu sou um desenvolvedor front-end & 
 
 <details>
 <summary><strong>Minhas estatísticas do Github</strong></summary>
-  <p align="center" style="display: flex; justify-content: space-between;">
+  <p align="center" style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=jefferson-calmon&show_icons=true&line_height=35&count_private=true"/>
     <img height=255 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-calmon"/>
   </p>
