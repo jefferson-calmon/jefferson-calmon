@@ -22,7 +22,8 @@ Apaixonado por programação e tecnologias, eu sou um desenvolvedor front-end & 
 
 
 **Você pode encontrar meu site de portfólio aqui** :heart:
-[https://jeffersoncalmon.dev/](https://jeffersoncalmon.dev/)
+
+[https://jeffersoncalmon.dev](https://jeffersoncalmon.dev)
 
 <br/>
 
