@@ -11,7 +11,7 @@ Alemanha, Estados Unidos e México (além do Brasil, é claro haha), todos eles 
   <a href="mailto:jeffjeff0197@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeffjeff0197@gmail.com" alt="E-mail"></a>
 </div>
 
-<img src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="300" align="right">
+<!-- <img src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="300" align="right"> -->
 
 ### Linguagens e ferramentas
 
